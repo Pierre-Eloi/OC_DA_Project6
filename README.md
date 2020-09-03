@@ -1,6 +1,6 @@
 # Parcours Data Analyst : Projet 6
 
-** objectif : réaliser une classification binaire pour identifier des faux billets**
+**objectif : réaliser une classification binaire pour identifier des faux billets**
 
 L'analyse et les résultats sont présentés sous forme d'un notebook jupyter.  
 Les librairies python nécessaires pour pouvoir lancer le notebook sont regroupées dans le fichier txt requirements.
