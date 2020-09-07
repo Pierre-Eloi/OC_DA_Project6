@@ -1,3 +1,0 @@
-billets.csv
-exemple.csv
-test_billets_validation_projet.csv
