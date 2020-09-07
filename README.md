@@ -3,9 +3,9 @@
 **objectif : réaliser une classification binaire pour identifier des faux billets**
 
 L'analyse et les résultats sont présentés sous forme d'un notebook jupyter.  
-Les librairies python nécessaires pour pouvoir lancer le notebook sont regroupées dans le fichier txt requirements.
+Les librairies python nécessaires pour pouvoir lancer le notebook sont regroupées dans le fichier *requirements.txt*.
 
-Toutes les fonctions créées afin de mener à bien le projet ont été regroupées dans le fichier functions.
+Toutes les fonctions créées afin de mener à bien le projet ont été regroupées dans le fichier *functions*.
 
 Étant donné que le jeu de données que j'avais à ma disposition était étiqueté, j'ai utilisé une **regression logistique régularisée** (Ridge) pour effectuer la classification binaire. Le grand avantage de la régression logistique étant de donner les probabilités, il faut cependant s'assurer que les données sont bien linéaires.
 
