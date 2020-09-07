@@ -11,4 +11,4 @@ Toutes les fonctions créées afin de mener à bien le projet ont été regroup�
 
 Lorsque l'on souhaite construire un système de détection d'anomalies, généralement très peu des données sont étiquetés. On utilise alors des algorithmes de *clustering* afin d'obtenir des clusters, puis on regarde où sont situées les observations avec étiquette pour caractériser les clusters. C'est pourquoi j'ai aussi testé l'algorithme **k-means** sur les données. Les données étant linéaires, j'ai effectué une **Analyse en Composantes Principales (ACP)** pour visualiser les résultats de la régression logistique et du k-means.
 
-![clusters visualization](/Charts/clusters.png "Visualization of clusters in the first factorial plan)
+![clusters visualization](/Charts/clusters.png "Visualization of clusters in the first factorial plan.")
